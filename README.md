@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Zheng bingxian  👋
+
+* 📖  Currently focus on distributed system field. Such as vgpu solution in kubernetes, cri/csi/cni develop, conformance test，Large-scale performance tests and so on .
+* 🌱  Have obtained PMP、CKA certificate and continuous learning more...
+
 
 <!--
 **zhengbingxian/zhengbingxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
