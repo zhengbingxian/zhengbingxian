@@ -2,6 +2,7 @@
 
 * 📖  Currently focus on distributed system field. Such as vgpu solution in kubernetes, cri/csi/cni develop, conformance test，large-scale performance tests ...
 * 🌱  Have obtained PMP、CKA certificate and so on.
+* 👯  Interested in language of C#/Python/Golang/Vue.
 
 
 <!--
