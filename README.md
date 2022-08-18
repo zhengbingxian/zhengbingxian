@@ -1,6 +1,6 @@
 ### Hi there, I'm Zheng bingxian  👋
 
-* 📖  Currently focus on distributed system field. Such as vgpu solution in kubernetes, cri/csi/cni develop, conformance test，Large-scale performance tests ...
+* 📖  Currently focus on distributed system field. Such as vgpu solution in kubernetes, cri/csi/cni develop, conformance test，large-scale performance tests ...
 * 🌱  Have obtained PMP、CKA certificate and so on.
 
 
