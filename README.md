@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 -->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zhengbingxian)]()
-![zhengbingxian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=zhengbingxian&show_icons=true&count_private=true&theme=gotham)
+
+![zhengbingxian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengbingxian&layout=compact&hide_border=true&langs_count=10)
