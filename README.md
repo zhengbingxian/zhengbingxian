@@ -13,7 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown         55 mins         ████████████████████░░░░░   80.45 %
+Makefile         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Go               6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+yarn.lock        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
