@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML       12 mins         ████████████████████████▒   96.81 %
-Go         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
