@@ -13,12 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go             32 mins         █████████████░░░░░░░░░░░░   51.72 %
-YAML           28 mins         ███████████▓░░░░░░░░░░░░░   46.37 %
-JSON           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
