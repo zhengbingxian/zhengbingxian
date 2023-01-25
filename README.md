@@ -13,12 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go               2 hrs 36 mins   ██████████████████████░░░   87.68 %
-Markdown         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-go.mod           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
